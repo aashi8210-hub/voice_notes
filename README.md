@@ -1,2 +1,2 @@
 # voice_notes
-this is my second repository
+this is going to be my very own app 
